@@ -9,4 +9,4 @@ I added the possibility to create a linked list from the keyboard and save it in
 
 All these operations can be performed on linked lists loaded from files and can be saved back in files as well.
 
-At the end, I saved everything and pushed the code to my github remote repository by using git.
+At the end, I saved everything and pushed the code ( and soem otehr relevant files to the project) to my github remote repository by using git.
